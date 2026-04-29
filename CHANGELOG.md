@@ -1,3 +1,9 @@
+# v3.0.19-cpp.29-beta.1
+
+`2026-04-29`
+
+- 🐛 fix(calendar): 修复文本颜色继承问题，并将 CalendarCard 顶部箭头 icon 替换为 Image 标签 (#3444)
+
 # v3.0.19-cpp.28
 
 `2026-04-27`
